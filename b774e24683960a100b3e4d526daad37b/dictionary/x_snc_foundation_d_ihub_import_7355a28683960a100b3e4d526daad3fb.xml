@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4eb8ae4a83960a100b3e4d526daad376" extends="sys_import_set_row" label="INT BofA RDR Users" max_length="40" name="x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb" type="collection">
+        <element attributes="import_attribute_name=ETY_GP_LG_NM" label="ETY_GP_LG_NM" max_length="40" name="u_ety_gp_lg_nm" type="integer"/>
+        <element attributes="'N/A')=true,1=true,30)AS PHONE_NUMBER_BUSINESS=true,edge_encryption_enabled=true,import_attribute_name=SUBSTR(NVL(NULLIF(LTRIM(RTRIM(WK.WKRWL_PH_NO))&lt;&quot;)" label="SUBSTR(NVL(NULLIF(LTRIM(RTRIM(WK.WKRWL_PH_NO))&lt;&quot;),'N/A'),1,30)AS PHONE_NUMBER_BU" max_length="40" name="u_substr_nvl_n_umber_business" type="string"/>
+        <element attributes="'N/A')=true,1=true,30)AS PHONE_NUMBER_MOBILE=true,edge_encryption_enabled=true,import_attribute_name=SUBSTR(NVL(NULLIF(LTRIM(RTRIM(WK.WKRWL_PH_NO))&lt;&quot;)" label="SUBSTR(NVL(NULLIF(LTRIM(RTRIM(WK.WKRWL_PH_NO))&lt;&quot;),'N/A'),1,30)AS PHONE_NUMBER_MO" max_length="40" name="u_substr_nvl_n__number_mobile" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WDW_LGON_ID" label="WDW_LGON_ID" max_length="40" name="u_wdw_lgon_id" type="string"/>
+        <element attributes="import_attribute_name=WDW_LGON_ID (F)" label="WDW_LGON_ID (F)" max_length="40" name="u_wdw_lgon_id__f_" type="integer"/>
+        <element attributes="import_attribute_name=WDW_LGON_ID (J)" label="WDW_LGON_ID (J)" max_length="40" name="u_wdw_lgon_id__j_" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WJ_RLE_NM" label="WJ_RLE_NM" max_length="40" name="u_wj_rle_nm" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WKR_1ST_NM" label="WKR_1ST_NM" max_length="40" name="u_wkr_1st_nm" type="string"/>
+        <element attributes="import_attribute_name=WKR_ELGRCC_CD" label="WKR_ELGRCC_CD" max_length="40" name="u_wkr_elgrcc_cd" type="float"/>
+        <element attributes="import_attribute_name=WKR_ELGR_CO_CD" label="WKR_ELGR_CO_CD" max_length="40" name="u_wkr_elgr_co_cd" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WKR_EMP_STA_CD=A" label="WKR_EMP_STA_CD=A" max_length="40" name="u_wkr_emp_sta_cd_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WKR_FLL_NM" label="WKR_FLL_NM" max_length="40" name="u_wkr_fll_nm" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WKR_LST_NM" label="WKR_LST_NM" max_length="40" name="u_wkr_lst_nm" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WKR_MID_NM" label="WKR_MID_NM" max_length="40" name="u_wkr_mid_nm" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WKR_WRK_EMAIL_AD" label="WKR_WRK_EMAIL_AD" max_length="40" name="u_wkr_wrk_email_ad" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WK.WJ_BND_CD" label="WK.WJ_BND_CD" max_length="40" name="u_wk_wj_bnd_cd" type="string"/>
+    </element>
+</database>

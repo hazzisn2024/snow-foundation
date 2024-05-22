@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 18:13:59</sys_created_on>
+        <sys_id>eab8ae4a83960a100b3e4d526daad3e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb</sys_name>
+        <sys_package display_value="Foundation Data Master" source="x_snc_foundation_d">b774e24683960a100b3e4d526daad37b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_eab8ae4a83960a100b3e4d526daad3e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 18:13:59</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE">
+        <condition_script><![CDATA[/*  Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>IHUB_SOURCE_TEMP_MAPPING</name>
+        <order>50</order>
+        <source_sys_rte_eb_entity display_value="Source_x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb">d3b5ae8683960a100b3e4d526daad30c</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 18:11:13</sys_created_on>
+        <sys_id>8e18264a83960a100b3e4d526daad3a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_SOURCE_TEMP_MAPPING</sys_name>
+        <sys_package display_value="Foundation Data Master" source="x_snc_foundation_d">b774e24683960a100b3e4d526daad37b</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="INT BofA RDR Users_etl_ihub">c7b5aa8683960a100b3e4d526daad379</sys_rte_eb_definition>
+        <sys_scope display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_8e18264a83960a100b3e4d526daad3a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 18:11:13</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_sys_user">f918264a83960a100b3e4d526daad32a</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_wk_wj_bnd_cd" label="WK.WJ_BND_CD" language="en" table="x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_wk_wj_bnd_cd</element>
+            <help/>
+            <hint/>
+            <label>WK.WJ_BND_CD</label>
+            <language>en</language>
+            <name>x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb</name>
+            <plural>WK.WJ_BND_CDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-22 18:13:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>WK.WJ_BND_CD</sys_name>
+            <sys_package display_value="Foundation Data Master" source="x_snc_foundation_d">b774e24683960a100b3e4d526daad37b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb_u_wk_wj_bnd_cd_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-22 18:13:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

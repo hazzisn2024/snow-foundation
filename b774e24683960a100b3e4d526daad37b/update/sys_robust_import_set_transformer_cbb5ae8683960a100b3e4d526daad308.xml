@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for INT BofA RDR Users</description>
+        <name>INT BofA RDR Users_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="INT BofA RDR Users_etl_ihub">c7b5aa8683960a100b3e4d526daad379</robust_transform_engine>
+        <source_table>x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 18:00:55</sys_created_on>
+        <sys_id>cbb5ae8683960a100b3e4d526daad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INT BofA RDR Users_rte_ihub</sys_name>
+        <sys_package display_value="Foundation Data Master" source="x_snc_foundation_d">b774e24683960a100b3e4d526daad37b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_cbb5ae8683960a100b3e4d526daad308</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 18:00:55</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure display_value="ih_import_FDbd95aa869c960a10b3d4f259207028a2">3195aa8683960a100b3e4d526daad3a3</published_source_structure>
+        <record_id>3b55a28683960a100b3e4d526daad3fc</record_id>
+        <source_structure display_value="ih_import_FD33f9e6ca0f960a1032fbff31ccc68d75">f3f9e6ca83960a100b3e4d526daad375</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 18:00:17</sys_created_on>
+        <sys_id>b195aa8683960a100b3e4d526daad3a4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Foundation Data Master" source="x_snc_foundation_d">b774e24683960a100b3e4d526daad37b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_b195aa8683960a100b3e4d526daad3a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 18:19:32</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+</record_update>

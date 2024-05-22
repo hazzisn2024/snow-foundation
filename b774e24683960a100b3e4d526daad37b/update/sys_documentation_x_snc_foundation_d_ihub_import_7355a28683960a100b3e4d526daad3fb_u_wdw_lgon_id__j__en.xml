@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_wdw_lgon_id__j_" label="WDW_LGON_ID (J)" language="en" table="x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_wdw_lgon_id__j_</element>
+            <help/>
+            <hint/>
+            <label>WDW_LGON_ID (J)</label>
+            <language>en</language>
+            <name>x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb</name>
+            <plural>WDW_LGON_ID (J)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-22 18:13:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>WDW_LGON_ID (J)</sys_name>
+            <sys_package display_value="Foundation Data Master" source="x_snc_foundation_d">b774e24683960a100b3e4d526daad37b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_foundation_d_ihub_import_7355a28683960a100b3e4d526daad3fb_u_wdw_lgon_id__j__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-22 18:13:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

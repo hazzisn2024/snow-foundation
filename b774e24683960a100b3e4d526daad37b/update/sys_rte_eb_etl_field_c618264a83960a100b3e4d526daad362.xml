@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>sn_ihub_target_title</field>
+        <name>sn_ihub_target_title</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 18:11:13</sys_created_on>
+        <sys_id>c618264a83960a100b3e4d526daad362</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_ihub_target_title</sys_name>
+        <sys_package display_value="Foundation Data Master" source="x_snc_foundation_d">b774e24683960a100b3e4d526daad37b</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="INT BofA RDR Users_etl_ihub">c7b5aa8683960a100b3e4d526daad379</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_sys_user">f918264a83960a100b3e4d526daad32a</sys_rte_eb_entity>
+        <sys_scope display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_c618264a83960a100b3e4d526daad362</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 18:11:13</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>
