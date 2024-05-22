@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="DELETE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="WKR_EMP_STA_CD=A">17b5ae8683960a100b3e4d526daad317</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 18:11:13</sys_created_on>
+        <sys_id>8a18264a83960a100b3e4d526daad3b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Foundation Data Master" source="x_snc_foundation_d">b774e24683960a100b3e4d526daad37b</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="INT BofA RDR Users_etl_ihub">c7b5aa8683960a100b3e4d526daad379</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">8e18264a83960a100b3e4d526daad3a3</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_8a18264a83960a100b3e4d526daad3b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 18:11:13</sys_updated_on>
+        <target_sys_rte_eb_field display_value="WKR_EMP_STA_CD=A_sn_ihub_target_active">b918264a83960a100b3e4d526daad32e</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</application>
+        <file_path/>
+        <instance_id>2e42a088db55ad589831ac44d496191f</instance_id>
+        <instance_name>hazzsandbox</instance_name>
+        <name>sys_rte_eb_field_mapping_8a18264a83960a100b3e4d526daad3b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping"><sys_rte_eb_field_mapping action="INSERT_OR_UPDATE"><order>100</order><referenced_sys_rte_eb_entity/><source_sys_rte_eb_field display_value="WKR_EMP_STA_CD=A">17b5ae8683960a100b3e4d526daad317</source_sys_rte_eb_field><sys_class_name>sys_rte_eb_field_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-22 18:11:13</sys_created_on><sys_id>8a18264a83960a100b3e4d526daad3b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Foundation Data Master" source="x_snc_foundation_d">b774e24683960a100b3e4d526daad37b</sys_package><sys_policy/><sys_rte_eb_definition display_value="INT BofA RDR Users_etl_ihub">c7b5aa8683960a100b3e4d526daad379</sys_rte_eb_definition><sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">8e18264a83960a100b3e4d526daad3a3</sys_rte_eb_entity_mapping><sys_scope display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</sys_scope><sys_update_name>sys_rte_eb_field_mapping_8a18264a83960a100b3e4d526daad3b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-22 18:11:13</sys_updated_on><target_sys_rte_eb_field display_value="WKR_EMP_STA_CD=A_sn_ihub_target_active">b918264a83960a100b3e4d526daad32e</target_sys_rte_eb_field></sys_rte_eb_field_mapping></record_update>]]></payload>
+        <payload_hash>-603555276</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8084e24683960a100b3e4d526daad380</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 18:11:13</sys_created_on>
+        <sys_id>8218264a83960a100b3e4d526daad3b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fa180098b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 18:11:13</sys_updated_on>
+        <type>RTE Field Mapping</type>
+        <update_guid>8618264aa2960a10ea44e430c23e80b5</update_guid>
+        <update_guid_history>8618264aa2960a10ea44e430c23e80b5:-603555276</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 19:08:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_field_mapping">sys_rte_eb_field_mapping</sys_db_object>
+        <sys_id>0319480cb845434d8255f82d982e2f69</sys_id>
+        <sys_metadata>8a18264a83960a100b3e4d526daad3b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Foundation Data Master" source="x_snc_foundation_d">b774e24683960a100b3e4d526daad37b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Foundation Data Master">b774e24683960a100b3e4d526daad37b</sys_scope>
+        <sys_scope_delete display_value="">4213967e2ee943c6ba435b07cfa01e84</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_field_mapping_8a18264a83960a100b3e4d526daad3b4</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_field_mapping_8a18264a83960a100b3e4d526daad3b4">8218264a83960a100b3e4d526daad3b6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 19:08:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
